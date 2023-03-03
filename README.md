@@ -1,8 +1,6 @@
 # Customer-Service-and-Data-Entry-Automation
 Customer Service and Data Entry Automation using Python and RPA
 
-Sure, here's a possible README file for the two programs above:
-
 RPA for Data Entry Automation
 This repository contains two Python programs that demonstrate how to use RPA (Robotic Process Automation) to automate repetitive data entry tasks. The first program uses a custom library for data validation, while the second program uses the Pandas library for data validation.
 
